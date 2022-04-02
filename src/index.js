@@ -1,5 +1,5 @@
 // import 'grapesjs/dist/css/grapes.min.css';
-// import 'test.css'
+// import 'main.scss'
 import grapesjs from 'grapesjs';
 import testComp from './comp/test-com'
 import inputComp from './comp/input-builtin'
