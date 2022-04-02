@@ -1,0 +1,20 @@
+{
+  "name": "refetch-interval",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@rollup/plugin-html": "0.2.4",
+    "grapejs": "2.1.2",
+    "rollup": "2.70.1",
+    "rollup-plugin-css-only": "3.1.0",
+    "rollup-plugin-livereload": "2.0.5",
+    "rollup-plugin-serve": "1.1.0"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/rollup -cw"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  }
+}
