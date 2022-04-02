@@ -1,4 +1,5 @@
 /.codesandbox
 /node_modules
 /.idea
-/dist
+!/dist/index.html
+dist
