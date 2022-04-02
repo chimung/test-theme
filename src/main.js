@@ -1,5 +1,6 @@
-import "grapesJs/css/grapes.min.css";
-import grapesjs from "grapesJs";
+import 'grapesjs/dist/css/grapes.min.css';
+import 'test.css'
+import grapesjs from 'grapesjs';
 
 const inputComp = (editor) =>
   editor.DomComponents.addType("input", {
